@@ -1,3 +1,5 @@
+![AI Customer Support Agent preview](ai-support-agent.svg)
+
 AI Customer Support Agent 🤖
 An intelligent, context-aware customer support chatbot powered by Claude (Anthropic). Built with clean OOP architecture in Python, featuring conversation memory, guardrails, and a modular design that mirrors real-world production AI systems.
 
